@@ -5,6 +5,8 @@ FixMyStreet is a modern pothole complaint management system built using **React 
 
 The application is deployed on an **Azure VM** at **[http://20.39.248.149](http://20.39.248.149)** and leverages **Azure Cosmos DB** for data storage, **Azure Blob Storage** for file uploads, and **Docker** for containerization.
 
+![system Arch](systemArch.png)
+
 ---
 ## Features
 ### 🌟 **User Features**
