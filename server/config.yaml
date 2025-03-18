@@ -1,0 +1,15 @@
+PORT: 8080
+JWT:
+  EXPIRATION:
+    LONG: 5000
+    SHORT: 200
+
+#Indian Region
+# AZURE_STORAGE_ACCOUNT_NAME: fixmystreett
+# AZURE_COSMODB_ACCOUNT_NAME: fixmystreet
+# Central France
+AZURE_STORAGE_ACCOUNT_NAME: fixmystreetstorage
+AZURE_COSMODB_ACCOUNT_NAME: william-fixmystreet
+
+
+AZURE_COSMODB_DATABASE_NAME: fixmystreet
